@@ -12,7 +12,7 @@
 // Always returns a nil
 - (nonnull id<PlumberProvider>)plumber {
     _Nonnull id x = nil;
-    return x;;
+    return x;
 }
 
 @end
